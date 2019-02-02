@@ -1,4 +1,4 @@
-## Option 1: Pyber
+##Pyber
 
 ![Ride](Images/Ride.png)
 
